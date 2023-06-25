@@ -13,19 +13,16 @@ The project utilizes a dataset containing historical energy consumption records 
 
 ## Models
 
-Models
-
 Several regression models are implemented and compared to predict appliance energy consumption. The following models are explored:
 
-Lasso regression
-Ridge regression
-Support vector regression
-KNeighborsRegressor
-Random Forest Regressor
-Gradient Boosting Regressor
-ExtraTrees Regressor
-Extreme Gradient Boosting with XGBoost
-Multi Layer Preceptron Regressor
+1. Lasso regression
+2. Ridge regression
+3. Support vector regression
+4. KNeighborsRegressor
+5. Random Forest Regressor
+6. Gradient Boosting Regressor
+7. ExtraTrees Regressor
+8. Extreme Gradient Boosting with XGBoost
 
 The models are trained on the available data and evaluated based on their performance metrics, such as mean squared error, mean absolute error, and R-squared value.
 
@@ -33,5 +30,4 @@ The models are trained on the available data and evaluated based on their perfor
 ## Results
 
 The project presents the comparative analysis of the different regressor models and time series analysis techniques. The evaluation results, including model performance metrics and insights from time series analysis, are discussed and visualized using appropriate plots and charts.
-
 
